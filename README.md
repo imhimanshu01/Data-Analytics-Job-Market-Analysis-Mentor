@@ -41,6 +41,5 @@ The dashboard visualizes trends and patterns to help **job seekers, recruiters, 
 - Salary estimates show a strong demand in the **$44k–$78k** range.  
 - Highly rated consulting firms are actively hiring for analyst positions.  
 
----
 
 # 📂 Project Structure
